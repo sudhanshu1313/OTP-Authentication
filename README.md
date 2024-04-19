@@ -1,7 +1,10 @@
+
+ <h2>  OTP Authentication </h2>
+ 
  <h4> Live Demo :- <a href="https://sudhanshu1313.github.io/OTPAuthentication/">OTP Authentication</a> </h4>
   <hr></hr>
-  OTP Authentication
-  <hr></hr>
+
+
 
   <p>This project implements OTP (One-Time Password) authentication using HTML, CSS, and JavaScript. OTP authentication provides an additional layer of security by generating a unique code that users must input to verify their identity.</p>
   <h4>Features</h4>
