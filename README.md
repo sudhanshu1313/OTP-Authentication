@@ -1,4 +1,4 @@
- <h4> Live Demo :- <a href="https://ecommerce-lo8o.onrender.com">OTP Authentication</a> </h4>
+ <h4> Live Demo :- <a href="https://sudhanshu1313.github.io/OTPAuthentication/">OTP Authentication</a> </h4>
   <hr></hr>
   OTP Authentication
   <hr></hr>
@@ -20,5 +20,6 @@
   </ul>
 
 
+<img src="https://github.com/sudhanshu1313/OTPAuthentication/blob/main/OTPAuthentication.png" alt="New User System" width="350" height="350px">
 
   
