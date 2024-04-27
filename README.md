@@ -23,6 +23,6 @@
   </ul>
 
 
-<img src="https://github.com/sudhanshu1313/OTPAuthentication/blob/main/OTPAuthentication.png" alt="New User System" width="350" height="350px">
+<img src="https://github.com/sudhanshu1313/OTPAuthentication/blob/main/OTPAuthentication.png" alt="OTP Authentication" width="350" height="350px">
 
   
